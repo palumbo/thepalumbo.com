@@ -1,0 +1,19 @@
+body { 
+	font-style: normal; 
+	margin-top: 67px; 
+	margin-left: 5%; 
+	color: 999999; 
+	text-align: left; 
+	font-size: 13px; 
+	font-family: Helvetica, sans-serif; 
+}
+
+#header { 
+	font-weight: 100; 
+}
+
+#rules { 
+	color: 000000; 
+	font-weight: 700; 
+	align-content: center; 
+}
